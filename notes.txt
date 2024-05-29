@@ -1,0 +1,8 @@
+icons = https://fontawesome.com/search 
+dummyjson
+fakestoreapi
+bing.com
+bootstrap = https://getbootstrap.com/docs/5.3/getting-started/introduction/
+ideogram = https://ideogram.ai/t/top/1
+google fonts = https://fonts.google.com/
+logos = https://logo.com/flow/keywords
